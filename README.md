@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku - 2022
 
 This is a fully functional Sudoku game application. 
 
