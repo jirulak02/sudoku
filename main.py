@@ -399,7 +399,6 @@ def znovu():
         pygame.quit()
     except Exception:
         sys.exit(1)
-    # hi 
 
 
 znovu()
